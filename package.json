@@ -1,0 +1,24 @@
+{
+  "name": "honey.js",
+  "version": "1.0.0",
+  "description": "A utility for running Dart code in node.js.",
+  "main": "index.js",
+  "bin": {
+    "honey": "./bin/honey.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DirectMyFile/honey.js.git"
+  },
+  "keywords": [
+    "dart",
+    "dart2js",
+    "util"
+  ],
+  "author": "Michael Bullington <mikebullingtn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DirectMyFile/honey.js/issues"
+  },
+  "homepage": "https://github.com/DirectMyFile/honey.js"
+}
